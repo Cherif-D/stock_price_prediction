@@ -1,6 +1,6 @@
 # Stock Price Prediction — Projet académique : DU sorbonne DataAnalytics  Grand projet machine learning
 
-Projet académique de data science visant à modéliser et prévoir l’évolution (prix et le rendement) d’un actif  financier à partir de séries temporelles.
+Projet académique de data science visant à modéliser et prévoir l’évolution (prix et rendement) d’un actif  financier (NVIDIA) à partir de séries temporelles.
 
 ## Méthodologie et réalisations
 - **Préparation des données & EDA** (téléchargement des données, exploration des données,  résumés, graphiques).
